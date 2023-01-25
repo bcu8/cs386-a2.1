@@ -10,8 +10,8 @@ Use the package manager [pip](https://pypi.org/project/pip/) to install MyCarDri
 
 ## Developers
 
-* Brandon Udall
-* Kane Davidson
+* **Kane Davidson**
+* *Brandon Udall*
 * Ian Tuohy
 * Nick Wiltshire
 * Ryley Fernandez
